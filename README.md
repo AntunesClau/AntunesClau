@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Clau... and I'm  Desenvolvedora de software ....</h2>
+<h2 align="left">Hi 👋! My name is Clau... and I'm  Software Developer ....</h2>
 
 ###
 
